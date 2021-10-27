@@ -1,0 +1,7 @@
+{
+  "name": "listsApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
